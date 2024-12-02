@@ -1,0 +1,15 @@
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\bin\Debug\net9.0\SistemaVotacao.exe
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\bin\Debug\net9.0\SistemaVotacao.deps.json
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\bin\Debug\net9.0\SistemaVotacao.runtimeconfig.json
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\bin\Debug\net9.0\SistemaVotacao.dll
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\bin\Debug\net9.0\SistemaVotacao.pdb
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.AssemblyInfoInputs.cache
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.AssemblyInfo.cs
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.csproj.CoreCompileInputs.cache
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.sourcelink.json
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.dll
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\refint\SistemaVotacao.dll
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.pdb
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\SistemaVotacao.genruntimeconfig.cache
+C:\Users\bielt\Lista Pessini C\Entregas\SistemaVotacao\obj\Debug\net9.0\ref\SistemaVotacao.dll
